@@ -1,0 +1,10 @@
+{
+    "CONJUNCTION":"conjunction",
+    "FEATURE-OF":"feature",
+    "HYPONYM-OF":"synonym",
+    "USED-FOR":"used",
+    "PART-OF":"part",
+    "COMPARE":"compare",
+    "EVALUATE-FOR":"evaluate",
+    "unrelated":"unrelated"
+}

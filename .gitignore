@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+.vscode
+
+benchmark/runs
+benchmark/data/*/episodes
+*.ipynb
+*.sh
+*.out

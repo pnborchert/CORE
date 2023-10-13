@@ -1,0 +1,13 @@
+{
+    "biological_process_involves_gene_product":"involved",
+    "inheritance_type_of":"type",
+    "is_normal_tissue_origin_of_disease":"tissue",
+    "ingredient_of":"ingredient",
+    "is_primary_anatomic_site_of_disease":"site",
+    "gene_found_in_organism":"gene",
+    "occurs_in":"occurs",
+    "causative_agent_of":"causes",
+    "classified_as":"categorized",
+    "gene_plays_role_in_process":"contributor",
+    "unrelated": "unrelated"
+}
