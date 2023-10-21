@@ -18,6 +18,12 @@ The order of e1 and e2 is based on their occurrence in the context. The `invert_
 <img src="./assets/distr_rel.png" alt="drawing" width="300", height="250"/>
 </center>
 
+The dataset is also available on HuggingFace: https://huggingface.co/datasets/pborchert/CORE 
+
+```python
+from datasets import load_dataset
+dataset = load_dataset("pborchert/CORE")
+```
 
 # Benchmark
 The `benchmark` folder contains scripts and files required to reproduce the performance benchmark presented in the paper. The `mapping.json` and `template.json` files in the `benchmark/data` folder are used to train the prompt-tuning models and are included for all benchmarked datasets.
@@ -121,6 +127,14 @@ done
 
 # References
 ```bibtex
+@misc{borchert2023core,
+      title={CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation}, 
+      author={Philipp Borchert and Jochen De Weerdt and Kristof Coussement and Arno De Caigny and Marie-Francine Moens},
+      year={2023},
+      eprint={2310.12024},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 # Terms Of Use
