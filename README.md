@@ -127,13 +127,24 @@ done
 
 # References
 ```bibtex
-@misc{borchert2023core,
-      title={CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation}, 
-      author={Philipp Borchert and Jochen De Weerdt and Kristof Coussement and Arno De Caigny and Marie-Francine Moens},
-      year={2023},
-      eprint={2310.12024},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{borchert-etal-2023-core,
+    title = "{CORE}: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation.",
+    author = "Borchert, Philipp  and
+      De Weerdt, Jochen  and
+      Coussement, Kristof  and
+      De Caigny, Arno  and
+      Moens, Marie-Francine",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.722",
+    doi = "10.18653/v1/2023.emnlp-main.722",
+    pages = "11792--11806",
 }
 ```
 
